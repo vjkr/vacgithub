@@ -1,1 +1,2 @@
 # vacgithub
+Hello AIKT Students!
