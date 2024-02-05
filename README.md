@@ -1,3 +1,3 @@
 # vacgithub
 Hello AIKT Students!
-hellosir and all my friends
+hello sir and all my friends
